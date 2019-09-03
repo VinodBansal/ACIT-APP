@@ -1,0 +1,3 @@
+
+[AWS]
+52.62.116.61 ansible_ssh_private_key_file=/home/ansible/tomcat-standalone/vault/acit-020919-104752.pem
